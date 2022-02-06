@@ -13,7 +13,7 @@ public class CardBlockApi
 	@Test
 	public void CardBlockTest()
 	{
-		System.out.println("Card Block Api");
+		System.out.println("Card Block  Api");
 		System.out.println("------------------");
 		RestAssured.baseURI="https://prepaid-gpr-dev-card-management-service.azuremicroservices.io";
 

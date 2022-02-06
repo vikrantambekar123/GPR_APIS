@@ -14,7 +14,7 @@ public class WalletStatement_Test
 	@Test
 	public void Wallet_Statement()
 	{
-		System.out.println("I am in Wallet Statement Api");
+		System.out.println("I am in Wallet  Statement Api");
 		RestAssured.baseURI="https://prepaid-gpr-dev-statement-service.azuremicroservices.io";
 		
 		WalletStatementDetails ws=new WalletStatementDetails();
