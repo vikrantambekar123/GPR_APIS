@@ -1,7 +1,6 @@
 package Pojos;
 
 public class ReplaceCardPojo 
-
 {
 	
 	
