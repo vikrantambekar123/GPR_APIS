@@ -55,28 +55,6 @@
 			"response": []
 		},
 		{
-			"name": "Update User",
-			"id": "51df8225-1332-4497-9ddd-f1289b39ac46",
-			"protocolProfileBehavior": {
-				"disableBodyPruning": true
-			},
-			"request": {
-				"method": "PUT",
-				"header": [],
-				"body": {
-					"mode": "raw",
-					"raw": "{\r\n    \"name\": \"morpheus\",\r\n    \"job\": \"zion resident\"\r\n}",
-					"options": {
-						"raw": {
-							"language": "json"
-						}
-					}
-				},
-				"url": "https://reqres.in/api/users/2"
-			},
-			"response": []
-		},
-		{
 			"name": "Login",
 			"id": "d8ef8388-9b1f-4f14-8821-e00048085fde",
 			"protocolProfileBehavior": {
