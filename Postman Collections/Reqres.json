@@ -77,18 +77,6 @@
 			"response": []
 		},
 		{
-			"name": "New Request Copy 3",
-			"id": "d53d783b-eec5-4618-a6de-42929c5c53c7",
-			"protocolProfileBehavior": {
-				"disableBodyPruning": true
-			},
-			"request": {
-				"method": "GET",
-				"header": []
-			},
-			"response": []
-		},
-		{
 			"name": "Register",
 			"id": "3c50991f-dd65-4383-878f-cd623c6b5d7c",
 			"protocolProfileBehavior": {
