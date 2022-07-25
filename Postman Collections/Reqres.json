@@ -6,7 +6,7 @@
 	},
 	"item": [
 		{
-			"name": "Get Users",
+			"name": "GEt",
 			"event": [
 				{
 					"listen": "test",
@@ -26,7 +26,7 @@
 					}
 				}
 			],
-			"_postman_id": "1a5e6db8-f450-4ceb-b857-e8d979cc1070",
+			"id": "1a5e6db8-f450-4ceb-b857-e8d979cc1070",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
 			},
@@ -56,7 +56,7 @@
 		},
 		{
 			"name": "Update User",
-			"_postman_id": "51df8225-1332-4497-9ddd-f1289b39ac46",
+			"id": "51df8225-1332-4497-9ddd-f1289b39ac46",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
 			},
@@ -78,7 +78,7 @@
 		},
 		{
 			"name": "Login",
-			"_postman_id": "d8ef8388-9b1f-4f14-8821-e00048085fde",
+			"id": "d8ef8388-9b1f-4f14-8821-e00048085fde",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
 			},
@@ -100,20 +100,19 @@
 		},
 		{
 			"name": "New Request Copy 3",
-			"_postman_id": "d53d783b-eec5-4618-a6de-42929c5c53c7",
+			"id": "d53d783b-eec5-4618-a6de-42929c5c53c7",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
 			},
 			"request": {
 				"method": "GET",
-				"header": [],
-				"url": null
+				"header": []
 			},
 			"response": []
 		},
 		{
 			"name": "Register",
-			"_postman_id": "3c50991f-dd65-4383-878f-cd623c6b5d7c",
+			"id": "3c50991f-dd65-4383-878f-cd623c6b5d7c",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
 			},
@@ -135,7 +134,7 @@
 		},
 		{
 			"name": "Create User",
-			"_postman_id": "417bc21b-6d7d-4864-b6cf-8c8b713ae558",
+			"id": "417bc21b-6d7d-4864-b6cf-8c8b713ae558",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
 			},
@@ -157,7 +156,7 @@
 		},
 		{
 			"name": "Delete",
-			"_postman_id": "bd2b459f-a1cc-4929-85e2-73259812b79a",
+			"id": "bd2b459f-a1cc-4929-85e2-73259812b79a",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
 			},
