@@ -119,19 +119,6 @@
 				"url": "https://reqres.in/api/users"
 			},
 			"response": []
-		},
-		{
-			"name": "Delete",
-			"id": "bd2b459f-a1cc-4929-85e2-73259812b79a",
-			"protocolProfileBehavior": {
-				"disableBodyPruning": true
-			},
-			"request": {
-				"method": "DELETE",
-				"header": [],
-				"url": "https://reqres.in/api/users/2"
-			},
-			"response": []
 		}
 	]
 }
