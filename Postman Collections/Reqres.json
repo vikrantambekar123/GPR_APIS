@@ -6,7 +6,7 @@
 	},
 	"item": [
 		{
-			"name": "Get api",
+			"name": "Get",
 			"event": [
 				{
 					"listen": "test",
