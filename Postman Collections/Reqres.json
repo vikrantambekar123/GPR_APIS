@@ -73,7 +73,7 @@
 					}
 				},
 				"url": "https://reqres.in/api/login",
-				"description": "Login Api helps us to Login in  \n  \nHEre we have few Parametere where our first Parameter is :-\n\n1.  Email - Data Type (String) Length - 20"
+				"description": "Login Api helps us to Login in\n\nHEre we have few Parametere where our first Parameter is :-\n\n1.  Email - Data Type (String) Length - 20"
 			},
 			"response": []
 		},
